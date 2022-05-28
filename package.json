@@ -1,0 +1,19 @@
+{
+  "name": "marsroverkata",
+  "version": "1.0.0",
+  "description": "marsRoverKata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xstardustgirlx/MarsRoverKata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xstardustgirlx/MarsRoverKata/issues"
+  },
+  "homepage": "https://github.com/xstardustgirlx/MarsRoverKata#readme"
+}
