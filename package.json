@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xstardustgirlx/MarsRoverKata/issues"
   },
-  "homepage": "https://github.com/xstardustgirlx/MarsRoverKata#readme"
+  "homepage": "https://github.com/xstardustgirlx/MarsRoverKata#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
